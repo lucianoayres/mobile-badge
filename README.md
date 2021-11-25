@@ -10,3 +10,4 @@ Mobile badge responsive layout created through Rocketseat NLW Heat (Mission Orig
 
 - Responsive layout
 - HTML and CSS3
+- Published with GitHub Pages
