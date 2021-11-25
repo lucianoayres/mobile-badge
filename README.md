@@ -1,6 +1,6 @@
 ## About
 
-Mobile badge layout created through Rocketseat NLW Heat (Mission Origin).
+Mobile badge responsive layout created through Rocketseat NLW Heat (Mission Origin).
 
 ### Features
 
